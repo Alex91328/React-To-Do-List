@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.strike-through {
+  text-decoration: line-through;
+  color: #0ddc0d;
+}
+
+.remove-item-cross {
+  float: right;
+  padding-right: 10px;
+}
